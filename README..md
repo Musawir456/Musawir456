@@ -1,16 +1,38 @@
-## Hi, I'm Abdul Musawir 👋
+# Hi, I'm Musawir 
 
-- 🎓 BS Information Technology student at The Superior University Lahore  
-- 🤖 Focus: **Data Science, Machine Learning and AI Engineering**  
-- 🧠 Skills: Python, C++, R, SQL, JavaScript, HTML/CSS, Data Structures & Algorithms  
-- 📊 Interested in: data analysis, ML models, deep learning, AI agents and automation  
-- 🗄️ Databases: SQL, MySQL, database design and queries  
-- 🌐 Also explore: full‑stack development, WordPress, information security, networking and IoT  
-- 📝 Strong in: technical & business writing, communication and presentations  
-- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/abdul-musawir-a9713a20b)
+Aspiring **Data Scientist / ML Engineer** from Pakistan, focused on building real-world machine learning and data projects.
 
-### Current goals
+- 🎓 BS Information Technology (Superior University, Lahore)
+- 🧠 Interested in Machine Learning, NLP, and data-driven products
+- 🛠️ Comfortable with Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, SQL
+- 🌐 Also work with Flask/Streamlit, APIs and basic front-end for ML apps
 
-- Build real projects in data analysis, ML and AI  
-- Use GitHub + LinkedIn for internships, freelancing and remote work  
-- Grow into a **Data Scientist / ML & AI Engineer**
+---
+
+## 🔍 Highlighted Projects
+
+- **Data Science, AI & ML Job Salaries (2025) – EDA & Insights**  
+  Exploratory analysis of a 2020–2025 global AI & Data Science salary dataset, studying pay by role, experience, country, company size and remote work.  
+  - Kaggle: https://www.kaggle.com/code/abmusawir/data-science-ai-ml-job-salaries-2025-eda-in  
+  - GitHub: https://github.com/Musawir456/data-science-ai-ml-job-salaries-2025-eda  
+
+- **Deep NLP: BiLSTM Text Classification on Custom Dataset**  
+  End-to-end text classification pipeline with cleaning, tokenization and a BiLSTM model in TensorFlow/Keras, plus custom text inference.  
+  - Kaggle: <https://www.kaggle.com/code/abmusawir/deep-nlp-text-classification-on-custom-dataset>
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** Python, C++, SQL, JavaScript  
+- **Data & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras  
+- **Tools:** Jupyter, VS Code, Kaggle, Git & GitHub  
+- **Web / Apps:** Flask, Streamlit, basic HTML/CSS/JS
+
+---
+
+## 📫 Connect
+
+- LinkedIn: <https://www.linkedin.com/in/abdul-musawir-a9713a20b/>  
+- Kaggle: <https://www.kaggle.com/abmusawir>  
+- Email: <abdulmusawir8191456@gmail.com>
