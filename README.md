@@ -52,4 +52,4 @@ I am a deep-tech entrepreneur and engineer focused on building **Autonomous Syst
 - 📧 [Email](mailto:abdulmusawir8191456@gmail.com)
 - 🚀 [Visit Auditly.ai](https://auditly-ai.streamlit.app/)
 - [Twitter](https://x.com/Musawir_4)
-*"Automating the future, one intelligent agent at a time."*
+- *"Automating the future, one intelligent agent at a time."*
