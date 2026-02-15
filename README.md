@@ -33,12 +33,12 @@ I am a deep-tech entrepreneur and engineer focused on building **Autonomous Syst
 - **Goal:** To grow into a world-class **Data Scientist / AI Engineer** and scale Auditly.ai into a global brand.
 
 ---
-
 ### 📈 GitHub Stats:
 
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musawir456&show_icons=true&theme=radical)
+[![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musawir456&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musawir456&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musawir456&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🔗 Quick Links:
 🌐 [Live Demo: Auditly AI](https://auditly-ai.streamlit.app/)
