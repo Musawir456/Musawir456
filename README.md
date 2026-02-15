@@ -35,8 +35,14 @@ I am a deep-tech entrepreneur and engineer focused on building **Autonomous Syst
 ---
 
 ### 📈 GitHub Stats:
-![Abdul's GitHub Stats](https://github.com/Musawir456/Musawir456/edit/main/README..md)
-![Top Langs](https://auditly-ai.streamlit.app/)
+
+![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musawir456&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musawir456&layout=compact&theme=radical)
+
+### 🔗 Quick Links:
+🌐 [Live Demo: Auditly AI](https://auditly-ai.streamlit.app/)
+💼 [LinkedIn Profile](https://www.linkedin.com/in/abdul-musawir-a9713a20b/)
 
 ---
 
@@ -45,5 +51,5 @@ I am a deep-tech entrepreneur and engineer focused on building **Autonomous Syst
 - 🧪 [Kaggle](https://www.kaggle.com/abmusawir)
 - 📧 [Email](mailto:abdulmusawir8191456@gmail.com)
 - 🚀 [Visit Auditly.ai](https://auditly-ai.streamlit.app/)
-[Twitter](https://x.com/Musawir_4)
+- [Twitter](https://x.com/Musawir_4)
 *"Automating the future, one intelligent agent at a time."*
